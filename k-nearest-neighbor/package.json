@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-xlrd": "^0.2.4"
+  }
+}
