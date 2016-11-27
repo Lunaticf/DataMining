@@ -1,5 +1,5 @@
 # DataMining
-Some data mining and machine learning homework with Node.js
+Some data mining and machine learning demo with Node.js
 
 ## K-nearest-neighbor
 Detailed explanation
